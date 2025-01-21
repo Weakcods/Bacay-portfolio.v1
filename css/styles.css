@@ -125,6 +125,15 @@ nav a:hover {
     margin-top: 1rem;
 }
 
+.btn-projects {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #dfd5d5;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
 .contact {
     background-color: #333;
     color: white;
